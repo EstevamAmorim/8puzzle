@@ -1,0 +1,30 @@
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/8puzzle.exe
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/8puzzle.deps.json
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/8puzzle.runtimeconfig.json
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/8puzzle.dll
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/ref/8puzzle.dll
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/bin/Debug/net6.0/8puzzle.pdb
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.csproj.AssemblyReference.cache
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.AssemblyInfoInputs.cache
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.AssemblyInfo.cs
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.csproj.CoreCompileInputs.cache
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.dll
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/ref/8puzzle.dll
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.pdb
+C:/Estevam Amorim/Curso Ciências da Computação/#7 Período/Inteligência Artificial/8puzzle/8puzzle/obj/Debug/net6.0/8puzzle.genruntimeconfig.cache
+/home/mainuser/Repositories/8puzzle/bin/Debug/net6.0/8puzzle
+/home/mainuser/Repositories/8puzzle/bin/Debug/net6.0/8puzzle.deps.json
+/home/mainuser/Repositories/8puzzle/bin/Debug/net6.0/8puzzle.runtimeconfig.json
+/home/mainuser/Repositories/8puzzle/bin/Debug/net6.0/8puzzle.dll
+/home/mainuser/Repositories/8puzzle/bin/Debug/net6.0/8puzzle.pdb
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.csproj.AssemblyReference.cache
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.GeneratedMSBuildEditorConfig.editorconfig
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.AssemblyInfoInputs.cache
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.AssemblyInfo.cs
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.csproj.CoreCompileInputs.cache
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.dll
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/refint/8puzzle.dll
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.pdb
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/8puzzle.genruntimeconfig.cache
+/home/mainuser/Repositories/8puzzle/obj/Debug/net6.0/ref/8puzzle.dll
